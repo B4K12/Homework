@@ -1,2 +1,2 @@
 # Homework
-Js CourseWork
+Js Coursework
